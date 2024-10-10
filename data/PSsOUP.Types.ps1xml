@@ -1,0 +1,126 @@
+<Type>
+  <Name>AbstractSubject</Name>
+  <Members>
+    <AliasProperty>
+      <Name>src</Name>
+      <ReferencedMemberName>
+        href
+      </ReferencedMemberName>
+    </AliasProperty>
+
+    <ScriptProperty>
+      <Name>Name</Name>
+    </ScriptProperty>
+
+  </Members>
+</Type>
+
+<Type>
+  <Name>Video</Name>
+  <Members>
+    <AliasProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </AliasProperty>
+    <ScriptProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </ScriptProperty>
+
+  </Members>
+</Type>
+
+<Type>
+  <Name>Person</Name>
+  <Members>
+    <AliasProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </AliasProperty>
+    <ScriptProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </ScriptProperty>
+  </Members>
+</Type>
+
+<Type>
+  <Name>Website</Name>
+  <Members>
+    <AliasProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </AliasProperty>
+    <ScriptProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </ScriptProperty>
+  </Members>
+</Type>
+
+<Type>
+  <Name>Business</Name>
+  <Members>
+    <AliasProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </AliasProperty>
+    <ScriptProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </ScriptProperty>
+  </Members>
+</Type>
+
+
+<Type>
+  <Name>Website</Name>
+  <Members>
+    <AliasProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </AliasProperty>
+    <ScriptProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </ScriptProperty>
+  </Members>
+</Type>
+
+<Type>
+  <Name>Article</Name>
+  <Members>
+    <AliasProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </AliasProperty>
+    <ScriptProperty>
+      <Name>Name</Name>
+      <ReferencedMemberName>
+        Title
+      </ReferencedMemberName>
+    </ScriptProperty>
+  </Members>
+</Type>
